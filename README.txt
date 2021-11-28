@@ -1,6 +1,5 @@
-AJ
-aj@lkn.io | @ajlkn
-
+MA
+Mirza Alikhan
 
 Credits:
 
@@ -12,5 +11,3 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
